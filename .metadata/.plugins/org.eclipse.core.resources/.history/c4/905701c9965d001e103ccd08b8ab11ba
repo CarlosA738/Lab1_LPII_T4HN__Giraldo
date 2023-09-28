@@ -1,0 +1,11 @@
+package com.cibertec;
+
+public class Empleado {
+	
+	private int IdEmpleado;
+	private String Apellidos;
+	private String Nombres;
+	private int Edad;
+	private String Sexo;
+	private Double Salario;
+}

@@ -1,0 +1,7 @@
+package controllers;
+
+public class EmpleadoController {
+	public String createUsuario(String apellidos, String nombres, int edad, String sexo, Double salario) {
+		
+	}
+}
